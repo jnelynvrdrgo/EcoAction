@@ -2,7 +2,7 @@
 
 A Java LAN chat application for campus environmental volunteers. Besides ordinary group chat, it gives volunteers a **shared Cleanup Task Board** and **Collection Reports** so a cleanup drive can be coordinated in one place instead of across scattered messages.
 
-> **Course:** ITAS1 – Network Programming | **Section:** `<Section>`
+> **Course:** ITAS1 – Network Programming | **Section:** `<BSIT 2B-SD>`
 > **Submission:** November 23–27, 2026
 
 ---
@@ -11,8 +11,8 @@ A Java LAN chat application for campus environmental volunteers. Besides ordinar
 
 | Member | GitHub Username | Role / Main Work |
 |---|---|---|
-| `<Member 1 full name>` | `jnelynvrdrgo` | `<e.g., Server, threading, message protocol>` |
-| `<Member 2 full name>` | `nuevafrexia-droid` | `<e.g., Swing GUI, task board, reports>` |
+| `<Jenelyn V. Rodrigo>` | `jnelynvrdrgo` | `<e.g., Server, threading, message protocol>` |
+| `<Frexia G. Nueva>` | `nuevafrexia-droid` | `<e.g., Swing GUI, task board, reports>` |
 
 Repository: `ITAS1-<Section>-<Surname1>-<Surname2>`
 
@@ -216,6 +216,6 @@ Tests marked **Pass** are backed by the screenshots above. Complete the remainin
 ## 9. Contribution Log
 
 | Date | Member | Task | Commit link |
-|---|---|---|---|
-| `<YYYY-MM-DD>` | `<Member 1>` | `<task>` | `<link>` |
-| `<YYYY-MM-DD>` | `<Member 2>` | `<task>` | `<link>` |
+|---|---|---|
+| `<2026-11-26>` | `<Jenelyn V. Rodrigo>` | `<>` |
+| `<2026-11-26>` | `<Frexia G. Nueva>` | `<link>` |
