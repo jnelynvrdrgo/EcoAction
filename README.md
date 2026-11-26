@@ -213,7 +213,7 @@ Tests marked **Pass** are backed by the screenshots above. Complete the remainin
 
 ## 9. Contribution Log
 
-| Date | Member | Task | Commit link |
+| Date | Member | Commit link |
 |---|---|---|
 | `<2026-11-26>` | `<Jenelyn V. Rodrigo>` | `<138920aad1631e593685f79dda32eff7fb235c5d>` |
 | `<2026-11-26>` | `<Frexia G. Nueva>` | `<>` |
