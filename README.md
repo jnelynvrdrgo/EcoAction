@@ -9,12 +9,10 @@ A Java LAN chat application for campus environmental volunteers. Besides ordinar
 
 ## 1. Members and GitHub Usernames
 
-| Member | GitHub Username | Role / Main Work |
+| Member | GitHub Username |
 |---|---|---|
-| `<Jenelyn V. Rodrigo>` | `jnelynvrdrgo` | `<e.g., Server, threading, message protocol>` |
-| `<Frexia G. Nueva>` | `nuevafrexia-droid` | `<e.g., Swing GUI, task board, reports>` |
-
-Repository: `ITAS1-<Section>-<Surname1>-<Surname2>`
+| `<Jenelyn V. Rodrigo>` | `jnelynvrdrgo` | 
+| `<Frexia G. Nueva>` | `nuevafrexia-droid` |
 
 ---
 
@@ -217,5 +215,5 @@ Tests marked **Pass** are backed by the screenshots above. Complete the remainin
 
 | Date | Member | Task | Commit link |
 |---|---|---|
-| `<2026-11-26>` | `<Jenelyn V. Rodrigo>` | `<>` |
-| `<2026-11-26>` | `<Frexia G. Nueva>` | `<link>` |
+| `<2026-11-26>` | `<Jenelyn V. Rodrigo>` | `<138920aad1631e593685f79dda32eff7fb235c5d>` |
+| `<2026-11-26>` | `<Frexia G. Nueva>` | `<>` |
