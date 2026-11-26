@@ -1,0 +1,5 @@
+package com.mycompany.ecoactionchat.client;
+import java.net.*;import java.io.*;import com.mycompany.ecoactionchat.gui.ClientView;
+public class ChatClient {final String host,nick;final int port;final ClientView view;Socket socket;PrintWriter out;volatile boolean connected;
+ public ChatClient(String h,int p,String n,ClientView v){host=h;port=p;nick=n;view=v;}public void connect(){new Thread(()->{try{socket=new Socket(host,port);out=new PrintWriter(socket.getOutputStream(),true);BufferedReader in=new BufferedReader(new InputStreamReader(socket.getInputStream()));out.println("JOIN|"+nick);connected=true;view.onConnected();String l;while((l=in.readLine())!=null)view.onMessage(l);}catch(IOException e){connected=false;view.onError(e.getMessage());}finally{connected=false;close();}},"ClientReader").start();}
+ public void send(String m){if(connected&&out!=null)out.println(m);}public boolean isConnected(){return connected;}public void disconnect(){if(out!=null)out.println("EXIT");connected=false;close();}void close(){try{if(socket!=null)socket.close();}catch(IOException ignored){}}}

@@ -1,0 +1,2 @@
+package com.mycompany.ecoactionchat.server;
+public class ServerMain { public static void main(String[] a){int p=5000;if(a.length>0)try{p=Integer.parseInt(a[0]);}catch(Exception ignored){}new ChatServer(p).start();}}

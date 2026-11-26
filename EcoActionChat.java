@@ -1,0 +1,3 @@
+package com.mycompany.ecoactionchat;
+import javax.swing.*; import com.mycompany.ecoactionchat.gui.ClientView;
+public class EcoActionChat { public static void main(String[] a){ SwingUtilities.invokeLater(()->{try{for(UIManager.LookAndFeelInfo i:UIManager.getInstalledLookAndFeels())if("Nimbus".equals(i.getName())){UIManager.setLookAndFeel(i.getClassName());break;}}catch(Exception ignored){} new ClientView().setVisible(true);});}}
