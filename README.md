@@ -11,8 +11,8 @@ A Java LAN chat application for campus environmental volunteers. Besides ordinar
 
 | Member | GitHub Username |
 |---|---|
-| `<Jenelyn V. Rodrigo>` | `jnelynvrdrgo` | 
-| `<Frexia G. Nueva>` | `nuevafrexia-droid` |
+| `Jenelyn V. Rodrigo` | `jnelynvrdrgo` | 
+| `Frexia G. Nueva` | `nuevafrexia-droid` |
 
 ---
 
@@ -215,5 +215,5 @@ Tests marked **Pass** are backed by the screenshots above. Complete the remainin
 
 | Date | Member | Commit link |
 |---|---|---|
-| `<2026-11-26>` | `<Jenelyn V. Rodrigo>` | `<138920aad1631e593685f79dda32eff7fb235c5d>` |
-| `<2026-11-26>` | `<Frexia G. Nueva>` | `<>` |
+| `2026-11-26` | `Jenelyn V. Rodrigo` | `138920aad1631e593685f79dda32eff7fb235c5d` |
+| `2026-11-26` | `Frexia G. Nueva` | `` |
