@@ -10,7 +10,7 @@ A Java LAN chat application for campus environmental volunteers. Besides ordinar
 ## 1. Members and GitHub Usernames
 
 | Member | GitHub Username |
-|---|---|---|
+|---|---|
 | `<Jenelyn V. Rodrigo>` | `jnelynvrdrgo` | 
 | `<Frexia G. Nueva>` | `nuevafrexia-droid` |
 
